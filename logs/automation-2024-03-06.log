@@ -1,0 +1,65 @@
+11:29:45.428 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+11:30:37.772 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+11:32:29.207 [main] INFO  Test_Cases.Hotel_TestNg - *****POPUP Handle successfully******
+11:32:31.263 [main] INFO  Test_Cases.Hotel_TestNg - Click on Adults
+11:32:31.264 [main] INFO  Test_Cases.Hotel_TestNg - Print the list Successfully
+11:33:33.992 [main] INFO  Test_Cases.Hotel_TestNg - *****POPUP Handle successfully******
+11:34:08.315 [main] INFO  Test_Cases.Hotel_TestNg - Click on Adults
+11:34:08.315 [main] INFO  Test_Cases.Hotel_TestNg - Print the list Successfully
+11:35:43.113 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+11:38:39.622 [main] INFO  Test_Cases.Hotel_TestNg - *****POPUP Handle successfully******
+11:39:01.906 [main] INFO  Test_Cases.Hotel_TestNg - Click on Adults
+11:39:01.906 [main] INFO  Test_Cases.Hotel_TestNg - Print the list Successfully
+11:40:29.735 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+11:54:37.132 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+11:55:28.016 [main] INFO  Test_Cases.Cabs_TestNG - Click on cabs
+11:55:43.260 [main] INFO  Test_Cases.Hotel_TestNg - *****POPUP Handle successfully******
+11:55:45.354 [main] INFO  Test_Cases.Hotel_TestNg - Click on Adults
+11:55:45.354 [main] INFO  Test_Cases.Hotel_TestNg - Print the list Successfully
+13:21:16.855 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+13:24:40.905 [main] INFO  Test_Cases.Hotel_TestNg - *****POPUP Handle successfully******
+13:25:04.089 [main] INFO  Test_Cases.Hotel_TestNg - Click on Adults
+13:25:04.090 [main] INFO  Test_Cases.Hotel_TestNg - Print the list Successfully
+13:29:14.537 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+13:29:17.138 [main] INFO  Test_Cases.Cabs_TestNG - Click on cabs
+13:29:19.690 [main] INFO  Test_Cases.Cabs_TestNG - Select from city
+13:29:24.466 [main] INFO  Test_Cases.Cabs_TestNG - Select To City
+13:31:36.797 [main] INFO  Test_Cases.Hotel_TestNg - *****POPUP Handle successfully******
+13:32:00.182 [main] INFO  Test_Cases.Hotel_TestNg - Click on Adults
+13:32:00.182 [main] INFO  Test_Cases.Hotel_TestNg - Print the list Successfully
+13:35:21.972 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+13:35:24.107 [main] INFO  Test_Cases.Cabs_TestNG - Click on cabs
+13:35:26.299 [main] INFO  Test_Cases.Cabs_TestNG - Select from city
+13:35:31.017 [main] INFO  Test_Cases.Cabs_TestNG - Select To City
+13:35:42.057 [main] INFO  Test_Cases.Cabs_TestNG - Select the Time And Click on Apply
+13:35:45.753 [main] INFO  Test_Cases.Cabs_TestNG - Search Button	
+13:35:48.986 [main] INFO  Test_Cases.Cabs_TestNG - SUV Select
+13:35:52.503 [main] INFO  Test_Cases.Cabs_TestNG - Print Lowest Price for SUV 
+13:36:09.085 [main] INFO  Test_Cases.Cabs_TestNG - Click On GiftCard Option
+13:36:10.489 [main] INFO  Test_Cases.Cabs_TestNG - Scroll successfully till Giftcard and click on Giftcard
+13:36:14.422 [main] INFO  Test_Cases.Cabs_TestNG - Click On Email
+13:36:15.696 [main] INFO  Test_Cases.Cabs_TestNG - Wrong Email Send
+13:36:16.703 [main] INFO  Test_Cases.Cabs_TestNG - Click On Buy Button
+13:36:17.260 [main] INFO  Test_Cases.Cabs_TestNG - Get Error Message
+13:36:47.434 [main] INFO  Test_Cases.Hotel_TestNg - *****POPUP Handle successfully******
+13:37:10.574 [main] INFO  Test_Cases.Hotel_TestNg - Click on Adults
+13:37:10.574 [main] INFO  Test_Cases.Hotel_TestNg - Print the list Successfully
+13:44:33.322 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+13:44:35.007 [main] INFO  Test_Cases.Cabs_TestNG - Click on cabs
+13:44:36.575 [main] INFO  Test_Cases.Cabs_TestNG - Select from city
+13:44:41.121 [main] INFO  Test_Cases.Cabs_TestNG - Select To City
+13:46:27.392 [main] INFO  Test_Cases.Hotel_TestNg - *****POPUP Handle successfully******
+13:46:50.359 [main] INFO  Test_Cases.Hotel_TestNg - Click on Adults
+13:46:50.359 [main] INFO  Test_Cases.Hotel_TestNg - Print the list Successfully
+13:49:03.805 [main] INFO  Test_Cases.Cabs_TestNG - *****POPUP Handle successfully******
+13:49:05.829 [main] INFO  Test_Cases.Cabs_TestNG - Click on cabs
+13:49:07.529 [main] INFO  Test_Cases.Cabs_TestNG - Select from city
+13:49:12.154 [main] INFO  Test_Cases.Cabs_TestNG - Select To City
+13:49:12.886 [main] INFO  Test_Cases.Cabs_TestNG - Select Date
+13:49:13.827 [main] INFO  Test_Cases.Cabs_TestNG - Select the Time And Click on Apply
+13:49:22.552 [main] INFO  Test_Cases.Cabs_TestNG - Search Button	
+13:49:23.534 [main] INFO  Test_Cases.Cabs_TestNG - SUV Select
+13:49:27.221 [main] INFO  Test_Cases.Cabs_TestNG - Print Lowest Price for SUV 
+13:49:31.943 [main] INFO  Test_Cases.Cabs_TestNG - Click On GiftCard Option
+13:49:33.217 [main] INFO  Test_Cases.Cabs_TestNG - Scroll successfully till Giftcard and click on Giftcard
+13:49:39.153 [main] INFO  Test_Cases.Cabs_TestNG - Wrong Email Send

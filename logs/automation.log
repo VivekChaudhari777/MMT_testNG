@@ -1,0 +1,5 @@
+13:49:40.705 [main] INFO  Test_Cases.Cabs_TestNG - Click On Buy Button
+13:49:41.327 [main] INFO  Test_Cases.Cabs_TestNG - Get Error Message
+13:50:13.148 [main] INFO  Test_Cases.Hotel_TestNg - *****POPUP Handle successfully******
+13:50:36.439 [main] INFO  Test_Cases.Hotel_TestNg - Click on Adults
+13:50:36.439 [main] INFO  Test_Cases.Hotel_TestNg - Print the list Successfully
